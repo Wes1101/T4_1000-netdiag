@@ -1,0 +1,5 @@
+iface: enp0s31f6
+poll_interval_sec: 1.0
+output:
+  path: ./events.json
+  
